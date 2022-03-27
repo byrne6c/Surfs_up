@@ -14,8 +14,6 @@ Based on the descriptive summary stats between the months of June & December, th
 
 ## Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
 Based on the weather analysis, the difference in Average Temperature between June & December, is not a significant difference, although December's standard deviation is higher due to the wider range in temperatures differnces during the month of December. We can assume there is a higher chance of unfavorable weather occurances during the month of December rather than June for Surfing & Ice Cream. 
 After running additional queries on precipitation, there is a higher chance of rain, sleet or snow to occure during the month of December. 
 Also a general statistical summary of Oahu, Hawaii weather from 2010-2017 has an average temperature of 73 degrees and a low average of recorded precipitation at 16% over the 8 year timespan. I beileve Oahu is a suitable location for the Surf's Up business.
